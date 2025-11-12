@@ -25,6 +25,7 @@ This Power BI project provides data-driven analysis to help design the credit ca
 | File / Folder | Description |
 |----------------|-------------|
 | `data/` | Raw and cleaned datasets used for analysis |
+| `icons/` | Icons used in PowerBI dashoard |
 | `images/` | Screenshots and visuals of the Power BI dashboard |
 | `mitronbank_creditcard_market_analysis.pbix` | Power BI dashboard file |
 | `mitronbank_report.pdf` | Summary report with insights and recommendations |
@@ -39,8 +40,7 @@ This Power BI project provides data-driven analysis to help design the credit ca
 
 ---
 
-## 📈 Key Insights (Sample Highlights)
-> *(Summaries below are examples — replace or refine based on your exact analysis results)*  
+## 📈 Key Insights (Sample Highlights) 
 - Customers aged **30–45** in the **“Professional”** occupation group showed the **highest income utilisation ratio**, indicating strong credit card potential.  
 - **Urban cities** demonstrated higher spending on **bills**, **electronics**, and **health & wellness**, suggesting focus areas for rewards programs.  
 - Tier-2 city customers have moderate income levels but growing spend potential — an opportunity for entry-level or low-fee credit cards.  
